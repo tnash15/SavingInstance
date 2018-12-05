@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Saving Instance</string>
+    <string name="do_something">doSomething</string>
+    <string name="name">name</string>
+    <string name="go_to_second">gotosecond</string>
+    <string name="share_data">sharedata</string>
+    <string name="go_to_second_for_result">gotosecondforresult</string>
+    <string name="shared_prefs">sharedprefs</string>
+</resources>
